@@ -3,4 +3,4 @@ Sample of code used to analyze simulated electron motion in an electron cyclotro
 
 This is the sample of the code used in analyzing electron motion in an electron cyclotron ion source with the aim of determining the spatial electron energy distribution function (EEDF) before experiencing collisions by running simulations with the TrapCad code.
  
-To get more information on this project or the full codes for all parameters used, contact the authors (Deborah Selemon and Christina Karagianni).
+To get more information on this project or the full codes for all parameters used, contact the authors (Christina Karagianni and Deborah Selemon).
